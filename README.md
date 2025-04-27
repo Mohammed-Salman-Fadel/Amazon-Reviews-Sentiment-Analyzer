@@ -1,3 +1,3 @@
 # Amazon-Reviews-Sentiment-Analyzer
 
-Streamlit visualization:
+Streamlit visualization: https://amazon-reviews-sentiment-analyzer-kzaxhb3apucp6kedyzbreb.streamlit.app/
